@@ -1,7 +1,7 @@
 
 # Memes Generator
 
-I created this using fetch to get data from an API to implement changes with regard to the image displayed.
+I created this web-application using fetch to get data from an API to implement changes with regard to the image displayed.
 
 ## Getting Started
 
