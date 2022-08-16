@@ -11,7 +11,7 @@ To setup this project run
   npm install 
 ```
     
-## Deployment
+## Demo
 
 https://memes-generator-ofili.netlify.app/
 
